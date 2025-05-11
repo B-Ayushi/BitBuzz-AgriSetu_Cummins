@@ -1,0 +1,39 @@
+Crop,Hybrid,Benefit1,Benefit2,Benefit3,Region,Duration,Yield,DiseaseResistance,SpecialFeatures,Vendors
+Rice,CO 46,BPH resistant,,,,110-120 days,,Brown planthopper resistant,,
+Rice,CORH 2,Tolerant to alkalinity,Tolerant to salinity,,,120-130 days,,,,
+Rice,CO 47,Blast resistant,,,,115-125 days,,Blast disease resistant,,
+Rice,CRHR 105,Suitable for high-temperature regimes,,,,125-135 days,,,,
+Rice,CRHR 32,Long-duration,Coastal ecosystems,Shallow lowland,Coastal areas,140-150 days,,,,
+Rice,Arize Dhani,Long-duration,Coastal ecosystems,Shallow lowland,Coastal areas,140-150 days,,,,
+Rice,PNPH 24,Mid-early maturity,Drought situations,,,100-110 days,,Drought tolerant,,
+Rice,PRH 10,High-yielding,Early maturity,Basmati-type,,90-100 days,,Premium quality,,
+Rice,ISRIZ-9,High-yielding,Long slender grain,Good milling quality,,110-120 days,,Aromatic variety,,
+Millet,Pearl Millet (Bajra),Gluten-free,High in protein/fiber,Regulates blood sugar,,,,Good for celiac disease,,
+Millet,Finger Millet (Ragi),Nutrient-rich,Aids digestion,Heart-healthy,,,,High calcium content,,
+Sugarcane,Co 0238 (Karan-4),High cane yield,High sugar recovery,Good jaggery quality,North West,12-14 months,,Moderately resistant to red rot,Waterlogged area tolerant,
+Sugarcane,Co 0118,Early-maturing,High ratooning ability,,High-fertility areas,10-12 months,,,Frequent irrigation suitable,
+Broccoli,Imperial,Heat-tolerant,Late summer planting,Winter harvest suitability,,60-70 days,,,,
+Chilli,CH-1 (PAU),High yield,Disease-resistant,,Punjab,90-100 days,,,,
+Chilli,CH-3 (PAU),Uniform fruit size,,,Punjab,90-100 days,,,,
+Beetroot,Beet Eagle F1,Robust growth,High yield,,,,,,,Beejwala Gardens
+Coffee,Mundo Maya,High yield,Disease resistant,Improved flavor,Latin America,3-4 years,1.5-2 kg/plant,Leaf rust resistant,Blended flavor profile,
+Coffee,Ruiru 11,High yield,Leaf rust resistant,,Kenya,3-4 years,1.8-2.2 kg/plant,,Compact growth,
+Coffee,Starmaya,High yield,Adaptable,,Central America,3-4 years,1.6-2 kg/plant,,Stable production,
+Coffee,Timor Hybrid,Disease resistant,High caffeine,,Southeast Asia,4-5 years,1.2-1.5 kg/plant,Leaf rust resistant,Robust growth,
+Coffee,Catimor,Disease resistant,Adaptable,,Global,3-4 years,1.5-1.8 kg/plant,Leaf rust resistant,,
+Coffee,Bourbon,Sweet flavor,Chocolatey notes,,Ethiopia,4-5 years,1-1.2 kg/plant,,Heirloom variety,
+Fruit,Pluot (Plumcot),Sweet taste,Juicy flesh,Smooth skin,Temperate,3-5 years,15-20 kg/tree,,Zaiger trademark,Zaiger Genetics
+Fruit,Plumcot,Combined flavors,Unique texture,,,3-5 years,12-18 kg/tree,,Plum-apricot cross,
+Fruit,Tangelo,Sweet flavor,High vitamin C,Antioxidant-rich,Subtropical,2-3 years,30-40 kg/tree,,Tangerine-grapefruit hybrid,
+Fruit,Limequat,Tart-sweet balance,Edible peel,,,1-2 years,8-12 kg/tree,,Lime-kumquat hybrid,
+Fruit,Jostaberry,High vitamin C,Rich flavor,,,2 years,3-5 kg/bush,,Gooseberry-blackcurrant cross,
+Fruit,Tayberry,Unique flavor,Soft texture,,,1 year,2-3 kg/vine,,Raspberry-blackberry hybrid,
+Fruit,Grapefruit,High vitamin C,Tart flavor,,,3-5 years,50-80 kg/tree,,Pomelo-orange hybrid,
+Fruit,Orangequat,Blended flavors,Edible peel,,,2-3 years,10-15 kg/tree,,Orange-kumquat hybrid,
+Groundnut,GHB-905,High grain yield,High dry fodder yield,Downy mildew resistant,North India,79 days,3.2-3.8 t/ha,"Downy mildew, Ergot tolerant",Suitable for rainfed areas,ICRISAT
+Groundnut,R-2001-2 (Vijetha),High oil content,Resistant to bud necrosis,High pod yield,South India,85-90 days,3.5-4.0 t/ha,Bud necrosis resistant,Premium oil quality,UAS Dharwad
+Pigeonpea,ICPH 8,High yield,First commercial hybrid,Wilt resistant,Global,120-130 days,2.5-3.0 t/ha,Wilt resistant,Pioneer hybrid,ICRISAT
+Pigeonpea,AL-201,Dual season (Summer+Rabi),Short duration,,,90-100 days,2.0-2.5 t/ha,,Short cropping window,IARI
+Pigeonpea,PPH 4,High yield,Punjab adapted,Sterility mosaic resistant,Punjab,110-120 days,2.8-3.2 t/ha,Sterility mosaic resistant,First Punjab hybrid,PAU Ludhiana
+Pigeonpea,AL 15,Early harvest,Intercropping friendly,,,75-85 days,1.8-2.2 t/ha,,Compact growth,IARI
+Pigeonpea,PAU 881,Extended harvest window,Staggered picking,,,95-105 days,2.2-2.6 t/ha,,Indeterminate growth,PAU Ludhiana
